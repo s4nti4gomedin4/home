@@ -41,9 +41,15 @@ MonoBehaviour:
     serializedVersion: 2
     x: 0
     y: 0
+<<<<<<< HEAD
     width: 1920
     height: 997
   m_MinSize: {x: 950, y: 300}
+=======
+    width: 1440
+    height: 775
+  m_MinSize: {x: 950, y: 542}
+>>>>>>> adding changes
   m_MaxSize: {x: 10000, y: 10000}
 --- !u!114 &3
 MonoBehaviour:
@@ -105,12 +111,21 @@ MonoBehaviour:
     serializedVersion: 2
     x: 0
     y: 30
+<<<<<<< HEAD
     width: 1920
     height: 947
   m_MinSize: {x: 713, y: 492}
   m_MaxSize: {x: 18008, y: 14042}
   vertical: 0
   controlID: 106
+=======
+    width: 1440
+    height: 725
+  m_MinSize: {x: 713, y: 492}
+  m_MaxSize: {x: 18008, y: 14042}
+  vertical: 0
+  controlID: 26
+>>>>>>> adding changes
 --- !u!114 &6
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -129,12 +144,21 @@ MonoBehaviour:
     serializedVersion: 2
     x: 0
     y: 0
+<<<<<<< HEAD
     width: 1208
     height: 947
   m_MinSize: {x: 232, y: 492}
   m_MaxSize: {x: 10002, y: 14042}
   vertical: 1
   controlID: 11
+=======
+    width: 685
+    height: 725
+  m_MinSize: {x: 232, y: 492}
+  m_MaxSize: {x: 10002, y: 14042}
+  vertical: 1
+  controlID: 27
+>>>>>>> adding changes
 --- !u!114 &7
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -151,8 +175,13 @@ MonoBehaviour:
     serializedVersion: 2
     x: 0
     y: 0
+<<<<<<< HEAD
     width: 1208
     height: 676
+=======
+    width: 685
+    height: 415
+>>>>>>> adding changes
   m_MinSize: {x: 202, y: 221}
   m_MaxSize: {x: 4002, y: 4021}
   m_ActualView: {fileID: 12}
@@ -205,10 +234,17 @@ MonoBehaviour:
     serializedVersion: 2
     x: 1208
     y: 0
+<<<<<<< HEAD
     width: 204
     height: 947
   m_MinSize: {x: 200, y: 200}
   m_MaxSize: {x: 4000, y: 4000}
+=======
+    width: 342
+    height: 725
+  m_MinSize: {x: 204, y: 221}
+  m_MaxSize: {x: 4004, y: 4021}
+>>>>>>> adding changes
   m_ActualView: {fileID: 17}
   m_Panes:
   - {fileID: 17}
@@ -342,14 +378,24 @@ MonoBehaviour:
     width: 1206
     height: 655
   m_SceneLighting: 1
+<<<<<<< HEAD
   lastFramingTime: 4140.773848665895
+=======
+  lastFramingTime: 10356.33079302311
+>>>>>>> adding changes
   m_2DMode: 0
   m_isRotationLocked: 0
   m_AudioPlay: 0
   m_Position:
+<<<<<<< HEAD
     m_Target: {x: -0.4992767, y: 0.7260189, z: 0.014014363}
     speed: 2
     m_Value: {x: -0.4992767, y: 0.7260189, z: 0.014014363}
+=======
+    m_Target: {x: -1.3073311, y: 0.37576818, z: 0.8197527}
+    speed: 2
+    m_Value: {x: -1.3073311, y: 0.37576818, z: 0.8197527}
+>>>>>>> adding changes
   m_RenderMode: 0
   m_ValidateTrueMetals: 0
   m_SceneViewState:
@@ -372,6 +418,7 @@ MonoBehaviour:
       speed: 2
       m_Value: 0
   m_Rotation:
+<<<<<<< HEAD
     m_Target: {x: -0.61953014, y: 0.017233469, z: -0.013503491, w: -0.78455895}
     speed: 2
     m_Value: {x: -0.6195829, y: 0.017234936, z: -0.013504641, w: -0.78462577}
@@ -379,6 +426,15 @@ MonoBehaviour:
     m_Target: 6.838708
     speed: 2
     m_Value: 6.838708
+=======
+    m_Target: {x: 0.24977516, y: 0.73901695, z: -0.51083165, w: 0.3613845}
+    speed: 2
+    m_Value: {x: 0.24976501, y: 0.7389869, z: -0.5108109, w: 0.36136982}
+  m_Size:
+    m_Target: 10.094545
+    speed: 2
+    m_Value: 10.094545
+>>>>>>> adding changes
   m_Ortho:
     m_Target: 0
     speed: 2
@@ -470,6 +526,7 @@ MonoBehaviour:
     m_ShowAllHits: 0
     m_SearchArea: 0
     m_Folders:
+<<<<<<< HEAD
     - Assets/_House/fbx/pc
   m_ViewMode: 1
   m_StartGridSize: 16
@@ -483,6 +540,21 @@ MonoBehaviour:
     m_SelectedIDs: 90290000
     m_LastClickedID: 10640
     m_ExpandedIDs: 000000002227000068280000902900000c2b00001c2b000000ca9a3bffffff7f
+=======
+    - Assets/_House/fbx/shower
+  m_ViewMode: 1
+  m_StartGridSize: 16
+  m_LastFolders:
+  - Assets/_House/fbx/shower
+  m_LastFoldersGridSize: 16
+  m_LastProjectPath: /Users/topo/Documents/workingspace/unity/Topo's house
+  m_IsLocked: 0
+  m_FolderTreeState:
+    scrollPos: {x: 0, y: 36}
+    m_SelectedIDs: ba3a0000
+    m_LastClickedID: 15034
+    m_ExpandedIDs: 2a280000b6280000d4280000822c0000ba3a000000ca9a3bffffff7f
+>>>>>>> adding changes
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -510,7 +582,11 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
+<<<<<<< HEAD
     m_ExpandedIDs: 000000002227000068280000902900000c2b00001c2b0000
+=======
+    m_ExpandedIDs: 
+>>>>>>> adding changes
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -541,18 +617,18 @@ MonoBehaviour:
     m_ExpandedInstanceIDs: 58320000301001003c1001002431000000000000f22c00006a2f00006e2f00008e390000da380000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
-      m_Name: 
-      m_OriginalName: 
+      m_Name: Materials
+      m_OriginalName: Materials
       m_EditFieldRect:
         serializedVersion: 2
         x: 0
         y: 0
         width: 0
         height: 0
-      m_UserData: 0
+      m_UserData: 14178
       m_IsWaitingForDelay: 0
       m_IsRenaming: 0
-      m_OriginalEventType: 11
+      m_OriginalEventType: 0
       m_IsRenamingFilename: 1
       m_ClientGUIView: {fileID: 8}
     m_CreateAssetUtility:
@@ -647,28 +723,38 @@ MonoBehaviour:
     height: 926
   m_TreeViewState:
     scrollPos: {x: 0, y: 0}
+<<<<<<< HEAD
     m_SelectedIDs: 84f6ffff
     m_LastClickedID: -2428
     m_ExpandedIDs: 8efbffff00000000
+=======
+    m_SelectedIDs: 50a3faffeaa3faff00a3faffb4a3faff82a3faff92a2faff
+    m_LastClickedID: 0
+    m_ExpandedIDs: 9866fbff0efaffff00000000
+>>>>>>> adding changes
     m_RenameOverlay:
       m_UserAcceptedRename: 0
-      m_Name: 
-      m_OriginalName: 
+      m_Name: SmartTV
+      m_OriginalName: SmartTV
       m_EditFieldRect:
         serializedVersion: 2
         x: 0
         y: 0
         width: 0
         height: 0
-      m_UserData: 0
+      m_UserData: -301416
       m_IsWaitingForDelay: 0
       m_IsRenaming: 0
-      m_OriginalEventType: 11
+      m_OriginalEventType: 0
       m_IsRenamingFilename: 0
       m_ClientGUIView: {fileID: 9}
     m_SearchString: 
   m_ExpandedScenes:
+<<<<<<< HEAD
   - Main 1
+=======
+  - Main
+>>>>>>> adding changes
   m_CurrenRootInstanceID: 0
   m_Locked: 0
   m_CurrentSortingName: TransformSorting
